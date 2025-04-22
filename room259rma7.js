@@ -127,7 +127,7 @@ height: 52px;
   background-image: url(https://up6.cc/2025/04/174533990536621.png);
   background-size: cover;
 }
-#d2.l7dah1 .label-primary{background-color:#b77c9a!important}#d2.l7dah1 .bg{background-color:#b77c9a!important}#d2.l7dah1 .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px;background-color: #3426231f!important;}#dpnl.l7dah1{background-size: 100%;background-image: url(https://up6.cc/2024/07/172056062063262.png);background-color: #b2b2b2;  }#dpnl.l7dah1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.l7dah1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.l7dah1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
+#d2.l7dah1 .label-primary{background-color:#b77c9a!important}#d2.l7dah1 .bg{background-color:#b77c9a!important}#d2.l7dah1 .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px;background-color: #3426231f!important;}#dpnl.l7dah1{background-size: 100%;background-image: url(https://up6.cc/2025/04/174534358283912.gif);background-color: #b2b2b2;  }#dpnl.l7dah1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.l7dah1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.l7dah1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.l7dah1 .mini.u-msg{text-align:center;}#dpnl.l7dah1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.l7dah1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.l7dah1 .label-primary {
     border-radius:  10px 0 10px!important;
@@ -206,7 +206,7 @@ border-radius:  10px 0 10px!important;
 }
 #upro.l7dah1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
-    background-image: url(https://up6.cc/2024/07/172065329319951.png);
+    background-image: url(https://up6.cc/2025/04/174534338059251.png);
     background-size: 100%;
 }
 #mic.l7dah1 #muteall {
