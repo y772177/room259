@@ -39,7 +39,7 @@ $(`<style>
 	opacity:0;
 }
 .nosel d-flex room r19646278c0bxeaefd974x-k1h0eu {
-    background-image: url(https://up6.cc/2024/07/172074089235181.gif);
+    background-image: url(https://up6.cc/2025/04/17453424293181.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
